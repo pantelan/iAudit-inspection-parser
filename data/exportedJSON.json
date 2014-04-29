@@ -1,0 +1,858 @@
+{
+    "audit_data": {
+        "score": 426, 
+        "date_completed": 1393967600, 
+        "name": "", 
+        "date_modified": 1397750214, 
+        "duration": 37, 
+        "authorship": {
+            "owner": "Ashley Hagan", 
+            "device_id": "9169D409-D5F2-4E7C-A9C6-414970896221", 
+            "author": "Heather Ard"
+        }, 
+        "date_started": 1393967563, 
+        "total_score": 3431
+    }, 
+    "item": [
+        {
+            "combined_score": 427.0, 
+            "parent_id": "", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "total_score": 0, 
+            "label": "Property Analysis", 
+            "type": "section", 
+            "combined_total_score": 3464.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "acf01cc0-9b46-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "Neighborhood Information", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 200.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 200.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "37,167,124", 
+                        "short_label": "Some", 
+                        "label": "Some", 
+                        "score": 10, 
+                        "id": "1804b220-9b40-11e3-a020-db3a412fe8f1", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "0a5965d0-9b40-11e3-a020-db3a412fe8f1", 
+            "total_score": 300.0, 
+            "label": "Are the houses on the block well taken care of?", 
+            "type": "question", 
+            "combined_total_score": 300.0, 
+            "options": {
+                "weighting": 20, 
+                "response_set": "17e654b0-9b40-11e3-a020-db3a412fe8f1"
+            }
+        }, 
+        {
+            "combined_score": 25.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 25.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "215,46,46", 
+                        "short_label": "None", 
+                        "label": "None", 
+                        "score": 5, 
+                        "id": "236487d0-9b40-11e3-a020-db3a412fe8f1", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "530f9830-9b40-11e3-a020-db3a412fe8f1", 
+            "total_score": 75.0, 
+            "label": "Are the cars on the block newer?", 
+            "type": "question", 
+            "combined_total_score": 75.0, 
+            "options": {
+                "weighting": 5, 
+                "response_set": "17e654b0-9b40-11e3-a020-db3a412fe8f1"
+            }
+        }, 
+        {
+            "combined_score": 50.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 50.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "215,46,46", 
+                        "short_label": "None", 
+                        "label": "None", 
+                        "score": 5, 
+                        "id": "236487d0-9b40-11e3-a020-db3a412fe8f1", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "ab1f3c10-9b40-11e3-a020-db3a412fe8f1", 
+            "total_score": 150.0, 
+            "label": "Are the yards well maintained in the area?", 
+            "type": "question", 
+            "combined_total_score": 150.0, 
+            "options": {
+                "weighting": 10, 
+                "response_set": "17e654b0-9b40-11e3-a020-db3a412fe8f1"
+            }
+        }, 
+        {
+            "combined_score": 125.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 125.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "215,46,46", 
+                        "short_label": "None", 
+                        "label": "None", 
+                        "score": 5, 
+                        "id": "236487d0-9b40-11e3-a020-db3a412fe8f1", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "9911f530-9b40-11e3-a020-db3a412fe8f1", 
+            "total_score": 375.0, 
+            "label": "Are houses on the block of a newer build?", 
+            "type": "question", 
+            "combined_total_score": 375.0, 
+            "options": {
+                "weighting": 25, 
+                "response_set": "17e654b0-9b40-11e3-a020-db3a412fe8f1"
+            }
+        }, 
+        {
+            "combined_score": 15.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 15.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "0,0,0", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "a22bbc61-9b49-11e3-a830-05ca3e117ec3", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "27d9d160-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 15.0, 
+            "label": "Do you feel safe in this neighborhood?", 
+            "type": "question", 
+            "combined_total_score": 15.0, 
+            "options": {
+                "weighting": 15, 
+                "response_set": "a22bbc60-9b49-11e3-a830-05ca3e117ec3"
+            }
+        }, 
+        {
+            "combined_score": 10.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 10.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "0,0,0", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "a22bbc61-9b49-11e3-a830-05ca3e117ec3", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "39991f50-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 10.0, 
+            "label": "Does the house back up to or reside on a busy street?", 
+            "type": "question", 
+            "combined_total_score": 10.0, 
+            "options": {
+                "weighting": 10, 
+                "response_set": "a22bbc60-9b49-11e3-a830-05ca3e117ec3"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "0,0,255", 
+                        "short_label": "NA", 
+                        "label": "N/A", 
+                        "score": 0, 
+                        "id": "8bcfbf02-e11b-11e1-9b23-0800200c9a66", 
+                        "enable_score": false
+                    }
+                ]
+            }, 
+            "item_id": "06c1bdc0-9d7d-11e3-913c-217b2dbd1752", 
+            "total_score": 10.0, 
+            "label": "What would the exit strategy on this property most likely entail?", 
+            "type": "question", 
+            "combined_total_score": 10.0, 
+            "options": {
+                "weighting": 10
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "0b328390-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "Items That Need Immediate Attention (Check all that apply)", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "27420bf0-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Property needs secured", 
+            "type": "checkbox", 
+            "combined_total_score": 3, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "27420bf0-9b47-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "38843aa0-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 2, 
+            "options": {
+                "values": [], 
+                "condition": "4e671f40-e4ff-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "38843aa0-9b47-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "435e6590-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Broken Windows", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "38843aa0-9b47-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "49a80be0-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Broken Door", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "38843aa0-9b47-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "5ae5f4d0-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "Other:", 
+            "type": "textsingle", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "64215620-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 1, 
+            "label": "Yard needs addressed\n", 
+            "type": "checkbox", 
+            "combined_total_score": 3, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "64215620-9b42-11e3-a020-db3a412fe8f1", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "9c7e4b80-9b48-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 2, 
+            "options": {
+                "values": [], 
+                "condition": "4e671f40-e4ff-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "9c7e4b80-9b48-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "ada85e50-9b48-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Tree Branches Have Fallen/Going to Fall", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "9c7e4b80-9b48-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a4e04a80-9b48-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Lawn needs mowed", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "71645170-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Pool Needs Addressed", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "88567e80-9b47-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "Current State of Property - (Check all items that apply to property)", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "e4b589e0-9b48-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Lockbox Is At Property", 
+            "type": "checkbox", 
+            "combined_total_score": 2, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "e4b589e0-9b48-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "ef3c3da0-9b48-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1, 
+            "options": {
+                "condition": "4e671f40-e4ff-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "ef3c3da0-9b48-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "00798a50-9b49-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "What code is lockbox set to?", 
+            "type": "question", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0, 
+                "response_set": "08ca4b40-9b49-11e3-a830-05ca3e117ec3"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "6eff2660-9b49-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Trashout On Property Has Been Completed", 
+            "type": "checkbox", 
+            "combined_total_score": 2, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "6eff2660-9b49-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "86c174b0-9b49-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1, 
+            "options": {
+                "values": [], 
+                "condition": "4e671f40-e4ff-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "86c174b0-9b49-11e3-a830-05ca3e117ec3", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "8f90db80-9b49-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Has the dumpster been removed from the property?", 
+            "type": "question", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0, 
+                "response_set": "a22bbc60-9b49-11e3-a830-05ca3e117ec3"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "3ea283d0-9b4a-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Contractor's Supplies On Site", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "48763b40-9b4a-11e3-a830-05ca3e117ec3", 
+            "total_score": 1, 
+            "label": "Contractor's On Site During Visit", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "9fbc7170-9b46-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "Property Specific Information", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "4caa41a0-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 5.0, 
+            "label": "Should the client sell the property immediately?", 
+            "type": "question", 
+            "combined_total_score": 8.0, 
+            "options": {
+                "weighting": 5, 
+                "response_set": "568c50f0-9b42-11e3-a020-db3a412fe8f1"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "4caa41a0-9b42-11e3-a020-db3a412fe8f1", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "78886b80-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 3, 
+            "options": {
+                "values": [
+                    "568c50f1-9b42-11e3-a020-db3a412fe8f1"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "78886b80-9b42-11e3-a020-db3a412fe8f1", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a3b65830-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 1, 
+            "label": "Uninhabitable conditions.", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "78886b80-9b42-11e3-a020-db3a412fe8f1", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "9fa36800-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 1, 
+            "label": "Repair costs would far exceed property value.", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "78886b80-9b42-11e3-a020-db3a412fe8f1", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a0f25630-9b42-11e3-a020-db3a412fe8f1", 
+            "total_score": 1, 
+            "label": "Rough neighborhood, wouldn't achieve underwritten rents.", 
+            "type": "checkbox", 
+            "combined_total_score": 1, 
+            "options": {
+                "weighting": 0
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "78886b80-9b42-11e3-a020-db3a412fe8f1", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "187ebcc0-9b43-11e3-a020-db3a412fe8f1", 
+            "total_score": 0, 
+            "label": "Other:", 
+            "type": "textsingle", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 2, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 2, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "225,126,126", 
+                        "short_label": "3", 
+                        "label": "Tier 3", 
+                        "score": 2, 
+                        "id": "ab9a4520-99a3-11e3-baa0-210b0957933c", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "74299cd0-99a3-11e3-9ea0-d745c174c518", 
+            "total_score": 4, 
+            "label": "Choose a Tier that best describes this property (Tier 1 = Best)", 
+            "type": "question", 
+            "combined_total_score": 4, 
+            "options": {
+                "weighting": 0, 
+                "response_set": "a80c8a80-99a3-11e3-baa0-210b0957933c"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "c3a18ff0-9b49-11e3-a830-05ca3e117ec3", 
+            "total_score": 0, 
+            "label": "Property Status and Rent Opinions", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "18,136,32", 
+                        "short_label": "OR", 
+                        "label": "Occupied/Rented", 
+                        "score": 0, 
+                        "id": "4042f3b0-99a5-11e3-afd7-a9e49145e4f1", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "380b3900-99a5-11e3-afd7-a9e49145e4f1", 
+            "total_score": 4, 
+            "label": "Property Status", 
+            "type": "list", 
+            "combined_total_score": 4, 
+            "options": {
+                "weighting": 0, 
+                "response_set": "4041e240-99a5-11e3-afd7-a9e49145e4f1"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "948056c0-9b4e-11e3-895d-9b0e5af07f27", 
+            "total_score": 2500.0, 
+            "label": "What do you estimate the rent to be at this property?", 
+            "type": "slider", 
+            "combined_total_score": 2500.0, 
+            "options": {
+                "weighting": 1, 
+                "min": 0, 
+                "increment": "25", 
+                "max": "2500"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "e18dff80-99a5-11e3-afd7-a9e49145e4f1", 
+            "total_score": 0, 
+            "label": "Comments", 
+            "type": "text", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "53897360-9b51-11e3-8c67-fdd9f6b717d0", 
+            "media": [
+                {
+                    "date_created": 1393967598, 
+                    "file_ext": "jpg", 
+                    "media_id": "61CD0932-B2F5-4A9C-BDEA-5691A56C21D6", 
+                    "filename": "61CD0932-B2F5-4A9C-BDEA-5691A56C21D6.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "a81a1480-99a2-11e3-9ea0-d745c174c518", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "53897360-9b51-11e3-8c67-fdd9f6b717d0", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "649ed310-9d7d-11e3-913c-217b2dbd1752", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "drawing", 
+            "combined_total_score": 0, 
+            "options": {}
+        }
+    ], 
+    "audit_id": "B63597B2-1DC6-46F3-B4A3-7A14345873EC", 
+    "template_data": {
+        "authorship": {
+            "owner": "Ashley Hagan", 
+            "date_created": 1393264764, 
+            "author": "Ashley Hagan", 
+            "device_id": "9169D409-D5F2-4E7C-A9C6-414970896221", 
+            "date_modified": 1393264764
+        }, 
+        "metadata": {
+            "industry": 17, 
+            "image": "", 
+            "description": "", 
+            "name": "BLT - Initial Inspection - GOOD", 
+            "subindustry": 2
+        }
+    }, 
+    "header": [
+        {
+            "combined_score": 1.0, 
+            "parent_id": "", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Information", 
+            "type": "section", 
+            "combined_total_score": 1.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 0, 
+            "responses": {
+                "text": "I-00000001"
+            }, 
+            "item_id": "f3245d46-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Document No.", 
+            "type": "textsingle", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 1.0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 1.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "0,0,0", 
+                        "short_label": "", 
+                        "label": "Ashley", 
+                        "score": 1, 
+                        "id": "f857cf01-9b50-11e3-8c67-fdd9f6b717d0", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "f0240bf0-9b50-11e3-8c67-fdd9f6b717d0", 
+            "total_score": 1.0, 
+            "label": "Property Inspected By", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "f857cf00-9b50-11e3-8c67-fdd9f6b717d0"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 0, 
+            "responses": {
+                "datetime": 1393967563
+            }, 
+            "item_id": "f3245d42-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Conducted on", 
+            "type": "datetime", 
+            "combined_total_score": 0, 
+            "options": {
+                "weighting": 1
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 0, 
+            "responses": {
+                "location_text": "2625 E Overton Rd\nDallas, TX  75216-5837\nUnited States", 
+                "location": {
+                    "iso_country_code": "US", 
+                    "administrative_area": "TX", 
+                    "name": "2633 E Overton Rd", 
+                    "thoroughfare": "E Overton Rd", 
+                    "locality": "Dallas", 
+                    "country": "United States", 
+                    "longitude": -96.786150000000006, 
+                    "sub_administrative_area": "Dallas", 
+                    "postal_code": "75216", 
+                    "latitude": 32.711069999999999, 
+                    "formatted_address": [
+                        "2633 E Overton Rd", 
+                        "Dallas, TX  75216-5837", 
+                        "United States"
+                    ], 
+                    "sub_locality": "Cedar Crest", 
+                    "sub_thoroughfare": "2633"
+                }
+            }, 
+            "item_id": "f3245d44-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Property Location", 
+            "type": "address", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "0b88fc70-9b51-11e3-8c67-fdd9f6b717d0", 
+            "total_score": 0, 
+            "label": "Property Coordinates", 
+            "type": "address", 
+            "combined_total_score": 0, 
+            "options": {}
+        }
+    ], 
+    "template_id": "54A761E5-F3C3-4FBF-93AA-B1080BA14138"
+}

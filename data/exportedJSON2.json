@@ -1,0 +1,2677 @@
+{
+    "audit_data": {
+        "score": 43, 
+        "date_completed": 1398464097, 
+        "name": "Hi there", 
+        "date_modified": 1398464097, 
+        "duration": 1080, 
+        "authorship": {
+            "owner": "Ashley Hagan", 
+            "device_id": "9169D409-D5F2-4E7C-A9C6-414970896221", 
+            "author": "Ashley Hagan"
+        }, 
+        "date_started": 1398462855, 
+        "total_score": 229
+    }, 
+    "item": [
+        {
+            "combined_score": 42.0, 
+            "parent_id": "", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "befa1790-cc83-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Audit", 
+            "type": "section", 
+            "combined_total_score": 233.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "befa1790-cc83-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Property Photos", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "7142cf00-cc84-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398462983, 
+                    "file_ext": "jpg", 
+                    "media_id": "39E50385-1A4E-45C6-9F99-FDAC9FF0CD9F", 
+                    "filename": "39E50385-1A4E-45C6-9F99-FDAC9FF0CD9F.jpg"
+                }
+            ], 
+            "label": "Front Of Property", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "7de0f110-cc84-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463023, 
+                    "file_ext": "jpg", 
+                    "media_id": "15EDFE07-12EF-4D1E-9F7B-F7C694A33769", 
+                    "filename": "15EDFE07-12EF-4D1E-9F7B-F7C694A33769.jpg"
+                }
+            ], 
+            "label": "Address Verification", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "033bde60-ccbc-11e3-b7b9-a9a4a85762f1", 
+            "media": [
+                {
+                    "date_created": 1398463034, 
+                    "file_ext": "jpg", 
+                    "media_id": "533597DD-7427-40BB-96CD-ACB78B4C9045", 
+                    "filename": "533597DD-7427-40BB-96CD-ACB78B4C9045.jpg"
+                }
+            ], 
+            "label": "Left Side of House", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "0a084940-ccbc-11e3-b7b9-a9a4a85762f1", 
+            "media": [
+                {
+                    "date_created": 1398463044, 
+                    "file_ext": "jpg", 
+                    "media_id": "5EDE8483-97E5-4BE3-BD12-182CB1408B18", 
+                    "filename": "5EDE8483-97E5-4BE3-BD12-182CB1408B18.jpg"
+                }
+            ], 
+            "label": "Right Side of House\n", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "835c71f0-cc84-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463058, 
+                    "file_ext": "jpg", 
+                    "media_id": "386DF9A4-9D3D-46AC-9F18-FC1D3E391F40", 
+                    "filename": "386DF9A4-9D3D-46AC-9F18-FC1D3E391F40.jpg"
+                }
+            ], 
+            "label": "Back of Property", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "899b42d0-cc84-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463066, 
+                    "file_ext": "jpg", 
+                    "media_id": "120E7B44-453E-442D-81B7-612EB10C0B83", 
+                    "filename": "120E7B44-453E-442D-81B7-612EB10C0B83.jpg"
+                }
+            ], 
+            "label": "Neighborhood Photos", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "8fbd15d0-cc84-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463073, 
+                    "file_ext": "jpg", 
+                    "media_id": "05ADD6CC-0461-4F6E-9C90-206BABF805B4", 
+                    "filename": "05ADD6CC-0461-4F6E-9C90-206BABF805B4.jpg"
+                }
+            ], 
+            "label": "Other Property Photos. (Add as many as needed)", 
+            "combined_score": 0, 
+            "parent_id": "74863a30-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 1.0, 
+            "parent_id": "befa1790-cc83-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "9e5225e0-cc84-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Exterior Property Review Checklist", 
+            "type": "category", 
+            "combined_total_score": 26.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "9e5225e0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "d8bb01f0-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "Exterior Condition of Property", 
+            "type": "category", 
+            "combined_total_score": 5.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "d8bb01f0-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "0,0,0", 
+                        "short_label": "", 
+                        "label": "Stucco", 
+                        "score": 0, 
+                        "id": "ed812740-ccb8-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "e28ee070-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "What type of materials on outside of property?", 
+            "type": "list", 
+            "combined_total_score": 5.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ed808b00-ccb8-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "e28ee070-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "131f20b0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "values": [
+                    "ed812740-ccb8-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "35f6c132-e500-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {
+                "text": "X,doeolwwl", 
+                "response": [
+                    {
+                        "colour": "232,20,20", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "ac0527a0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "27221d10-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463118, 
+                    "file_ext": "jpg", 
+                    "media_id": "5A6B5B54-D424-4E42-8A8B-1676E0C80434", 
+                    "filename": "5A6B5B54-D424-4E42-8A8B-1676E0C80434.jpg"
+                }
+            ], 
+            "label": "Are there any cracks, deterioration or stains?", 
+            "combined_score": 0.0, 
+            "parent_id": "131f20b0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "27221d10-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "3d698b30-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "458a8990-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463091, 
+                    "file_ext": "jpg", 
+                    "media_id": "8D71A0E1-2632-4985-9D10-583637D2A97C", 
+                    "filename": "8D71A0E1-2632-4985-9D10-583637D2A97C.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "3d698b30-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "e28ee070-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "19478360-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "values": [
+                    "ed808b01-ccb8-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "35f6c132-e500-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "19478360-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "563b26a0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "Are there any dents, stains or missing pieces?", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "563b26a0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "69432130-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "69432130-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "6ecc36a0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "e28ee070-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "1583ebb0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "values": [
+                    "023a2d30-ccb9-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "35f6c132-e500-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "1583ebb0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "809a2a90-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "Is there any visible water damage, rot, termite or insect damage?", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "809a2a90-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "998baa10-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "998baa10-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "9d6f4ce0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "e28ee070-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "1820b6a0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "values": [
+                    "044d07a0-ccb9-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "35f6c132-e500-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "1820b6a0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "aa440f50-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "Is there any deterioration?", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "aa440f50-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "16dd3a20-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "16dd3a20-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "bbc98890-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 1.0, 
+            "parent_id": "9e5225e0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "7d44a9e0-ccac-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Doors and Windows", 
+            "type": "category", 
+            "combined_total_score": 4.0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Mhffxhi,m\nM", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "928d93c0-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463134, 
+                    "file_ext": "jpg", 
+                    "media_id": "57616E04-B11A-495A-B11F-B60BDA79CFD3", 
+                    "filename": "57616E04-B11A-495A-B11F-B60BDA79CFD3.jpg"
+                }
+            ], 
+            "label": "Are there any broken windows?", 
+            "combined_score": 1.0, 
+            "parent_id": "7d44a9e0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "928d93c0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a5d794d0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "9e8e58d0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463149, 
+                    "file_ext": "jpg", 
+                    "media_id": "B4BEEEC2-37D0-44A4-AAFF-1B52F73B5A63", 
+                    "filename": "B4BEEEC2-37D0-44A4-AAFF-1B52F73B5A63.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "a5d794d0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Khdismaiamajq", 
+                "response": [
+                    {
+                        "colour": "232,20,20", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "ac0527a0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "a24551e0-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463168, 
+                    "file_ext": "jpg", 
+                    "media_id": "FE06021C-A270-41F8-9CA0-ABDBCC8452D7", 
+                    "filename": "FE06021C-A270-41F8-9CA0-ABDBCC8452D7.jpg"
+                }
+            ], 
+            "label": "Are there any broken doors?", 
+            "combined_score": 0.0, 
+            "parent_id": "7d44a9e0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a24551e0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a2c599e0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a2c599e0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "9d7e2150-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Keksjakaka", 
+                "response": [
+                    {
+                        "colour": "232,20,20", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "ac0527a0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 2.0, 
+            "item_id": "ac9453d0-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463189, 
+                    "file_ext": "jpg", 
+                    "media_id": "E64F9614-438B-4E8F-8C25-EEFA91E0BDFE", 
+                    "filename": "E64F9614-438B-4E8F-8C25-EEFA91E0BDFE.jpg"
+                }
+            ], 
+            "label": "Are there screens present on every window?", 
+            "combined_score": 0.0, 
+            "parent_id": "7d44a9e0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "ac9453d0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a736fdc0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "a736fdc0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "f38a2d00-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "Are screens in good shape?", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "9e5225e0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Grounds and Yard of Property", 
+            "type": "category", 
+            "combined_total_score": 17.0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Kinkajous", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "b62d5360-cc84-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463207, 
+                    "file_ext": "jpg", 
+                    "media_id": "268C1FBF-321F-45DE-9E64-F43819B5644E", 
+                    "filename": "268C1FBF-321F-45DE-9E64-F43819B5644E.jpg"
+                }
+            ], 
+            "label": "Tree roots or vines not encroaching on building", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "b62d5360-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "474afb10-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "8dbe1b40-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463309, 
+                    "file_ext": "jpg", 
+                    "media_id": "52600C18-6DF0-4A58-A075-41E774EAF46C", 
+                    "filename": "52600C18-6DF0-4A58-A075-41E774EAF46C.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "474afb10-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Misuses", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "abc5d5b0-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463219, 
+                    "file_ext": "jpg", 
+                    "media_id": "6FD177EB-6264-41C8-BB40-93E89E167C60", 
+                    "filename": "6FD177EB-6264-41C8-BB40-93E89E167C60.jpg"
+                }
+            ], 
+            "label": "Grade, walkways and drive slope away from house", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "abc5d5b0-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "494bd420-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "a0fa4530-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463294, 
+                    "file_ext": "jpg", 
+                    "media_id": "CECD787B-7CFD-4EBB-88FF-2CECC7D6B4EF", 
+                    "filename": "CECD787B-7CFD-4EBB-88FF-2CECC7D6B4EF.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "494bd420-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Ksjanajajanajajak", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "bd8fd200-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463236, 
+                    "file_ext": "jpg", 
+                    "media_id": "C48A69D0-63B3-475C-90B7-72946D53732A", 
+                    "filename": "C48A69D0-63B3-475C-90B7-72946D53732A.jpg"
+                }
+            ], 
+            "label": "Driveway sealed and crack-free", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "bd8fd200-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "4abe76f0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "b302f830-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463284, 
+                    "file_ext": "jpg", 
+                    "media_id": "A68C0E03-F577-454A-9A35-19C7F0BC7D91", 
+                    "filename": "A68C0E03-F577-454A-9A35-19C7F0BC7D91.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "4abe76f0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Sakes kanaka", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "c699f7e0-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463264, 
+                    "file_ext": "jpg", 
+                    "media_id": "FCCEAFFC-B94F-4B1F-9686-FF6AA43531E3", 
+                    "filename": "FCCEAFFC-B94F-4B1F-9686-FF6AA43531E3.jpg"
+                }
+            ], 
+            "label": "Walkways sealed and crack-free", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "c699f7e0-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "4c0268a0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "ba5de770-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463276, 
+                    "file_ext": "jpg", 
+                    "media_id": "3A728118-E053-433B-8287-FE7C4FA11A64", 
+                    "filename": "3A728118-E053-433B-8287-FE7C4FA11A64.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "4c0268a0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "SMS,sky,slskmxkdmss,slx", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "d0660e30-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463325, 
+                    "file_ext": "jpg", 
+                    "media_id": "A666A83A-C555-4C45-B7A0-59F90A419D85", 
+                    "filename": "A666A83A-C555-4C45-B7A0-59F90A419D85.jpg"
+                }
+            ], 
+            "label": "Even, Safe and level walkways", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "d0660e30-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "4e570700-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "bfba2080-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463346, 
+                    "file_ext": "jpg", 
+                    "media_id": "3F37853F-57CE-4D29-9157-332AD221E6DB", 
+                    "filename": "3F37853F-57CE-4D29-9157-332AD221E6DB.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "4e570700-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Mskkxdjfndjdujdejsk", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "daf43c00-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463356, 
+                    "file_ext": "jpg", 
+                    "media_id": "2D8AF4CC-A3A7-4526-BB8E-1E1B62364A1D", 
+                    "filename": "2D8AF4CC-A3A7-4526-BB8E-1E1B62364A1D.jpg"
+                }
+            ], 
+            "label": "Outdoor steps level and safe", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "daf43c00-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "503f4f00-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "c72e8b30-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463376, 
+                    "file_ext": "jpg", 
+                    "media_id": "F4D36A86-6D51-46E9-B1C4-D15AD1F2821A", 
+                    "filename": "F4D36A86-6D51-46E9-B1C4-D15AD1F2821A.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "503f4f00-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "House looks weird", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "e50ee780-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463389, 
+                    "file_ext": "jpg", 
+                    "media_id": "369D102F-1F98-4EBB-B038-2ADE70EE5D45", 
+                    "filename": "369D102F-1F98-4EBB-B038-2ADE70EE5D45.jpg"
+                }
+            ], 
+            "label": "Fencing well-maintained", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "e50ee780-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "51f95b10-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "cbd83d20-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463395, 
+                    "file_ext": "jpg", 
+                    "media_id": "6AC2C50F-CD00-4655-93BD-65B14805623A", 
+                    "filename": "6AC2C50F-CD00-4655-93BD-65B14805623A.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "51f95b10-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Necks ska,am", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "f3b89100-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463415, 
+                    "file_ext": "jpg", 
+                    "media_id": "D64AA048-3451-4899-A369-E6283CCDDBEF", 
+                    "filename": "D64AA048-3451-4899-A369-E6283CCDDBEF.jpg"
+                }
+            ], 
+            "label": "Garage structure well maintained", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "f3b89100-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "53fc5700-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "d2000390-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463428, 
+                    "file_ext": "jpg", 
+                    "media_id": "0B272010-BB2E-404B-84B0-4916E7EF69AA", 
+                    "filename": "0B272010-BB2E-404B-84B0-4916E7EF69AA.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "53fc5700-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Masks demean", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "fdf0af90-ccab-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463436, 
+                    "file_ext": "jpg", 
+                    "media_id": "8F55C91E-6F47-4DC7-9577-EBD9CF60F156", 
+                    "filename": "8F55C91E-6F47-4DC7-9577-EBD9CF60F156.jpg"
+                }
+            ], 
+            "label": "Garage doors painted, free from damage", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "fdf0af90-ccab-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "554b1e20-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "d7394b50-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463445, 
+                    "file_ext": "jpg", 
+                    "media_id": "C6307387-5A64-4B69-A01B-E9B006817FEF", 
+                    "filename": "C6307387-5A64-4B69-A01B-E9B006817FEF.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "554b1e20-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Modish siamang", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "06d1f0b0-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463460, 
+                    "file_ext": "jpg", 
+                    "media_id": "7C933FCF-9881-4706-A60C-7E6EA4A2F9EA", 
+                    "filename": "7C933FCF-9881-4706-A60C-7E6EA4A2F9EA.jpg"
+                }
+            ], 
+            "label": "Other sheds and buildings in good repair.", 
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "06d1f0b0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "57333f10-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "dd537d30-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463467, 
+                    "file_ext": "jpg", 
+                    "media_id": "DD0138FC-44C8-4E14-96B3-4F5C2C1E7D38", 
+                    "filename": "DD0138FC-44C8-4E14-96B3-4F5C2C1E7D38.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "57333f10-ccb5-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "a7cebca0-cc84-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "1644b690-ccac-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Roof and Chimney", 
+            "type": "category", 
+            "combined_total_score": 7.0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Make middle,snd", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "21eae410-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463481, 
+                    "file_ext": "jpg", 
+                    "media_id": "02058D9A-6AA4-446D-B033-A85D140C65F8", 
+                    "filename": "02058D9A-6AA4-446D-B033-A85D140C65F8.jpg"
+                }
+            ], 
+            "label": "Is there any hail or water damage?", 
+            "combined_score": 0.0, 
+            "parent_id": "1644b690-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "21eae410-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "506d2050-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "5fe5f621-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "506d2050-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "35c405c0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Jdkxmxsksksm", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "32c3f0b0-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463492, 
+                    "file_ext": "jpg", 
+                    "media_id": "51147E7D-D691-4879-86AC-E61F20083CC7", 
+                    "filename": "51147E7D-D691-4879-86AC-E61F20083CC7.jpg"
+                }
+            ], 
+            "label": "Do the shingles have any deterioration or other visible issues?", 
+            "combined_score": 0.0, 
+            "parent_id": "1644b690-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "32c3f0b0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "52b33fc0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "5fe5f621-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "52b33fc0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "36e77720-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Mdks,smajaka", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "416d7320-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463506, 
+                    "file_ext": "jpg", 
+                    "media_id": "E38C377A-AFF9-4AD4-8BEE-B13D9F8E69FE", 
+                    "filename": "E38C377A-AFF9-4AD4-8BEE-B13D9F8E69FE.jpg"
+                }
+            ], 
+            "label": "Do the eaves have deterioration or other visible issues?", 
+            "combined_score": 0.0, 
+            "parent_id": "1644b690-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "416d7320-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "54b79b40-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "5fe5f621-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "54b79b40-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "3828a9b0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "MDMA,a kaka,am", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "4c4d1c50-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463538, 
+                    "file_ext": "jpg", 
+                    "media_id": "5503B4E0-143D-44B9-87B3-6F12A923CBDA", 
+                    "filename": "5503B4E0-143D-44B9-87B3-6F12A923CBDA.jpg"
+                }
+            ], 
+            "label": "Does the chimney have any crumbling brick?", 
+            "combined_score": 0.0, 
+            "parent_id": "1644b690-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "4c4d1c50-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "57401ae0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "5fe5f621-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "57401ae0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "3954cda0-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Masks,a,a", 
+                "response": [
+                    {
+                        "colour": "234,36,36", 
+                        "short_label": "", 
+                        "label": "No", 
+                        "score": 0, 
+                        "id": "6004a1b0-ccb5-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 3.0, 
+            "item_id": "55c9da20-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463560, 
+                    "file_ext": "jpg", 
+                    "media_id": "09A32B4B-D657-4DD2-A35B-B0CAA1567144", 
+                    "filename": "09A32B4B-D657-4DD2-A35B-B0CAA1567144.jpg"
+                }
+            ], 
+            "label": "Are there gutters on the property?", 
+            "combined_score": 0.0, 
+            "parent_id": "1644b690-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "5fe5f620-ccb5-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "55c9da20-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "5cb33750-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 2.0, 
+            "options": {
+                "values": [
+                    "5fe5f621-ccb5-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "5cb33750-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "78b31d60-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "Splash blocks in place beneath downspouts (to drain away from building)", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "78b31d60-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "a479c7a0-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac0527a0-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "a479c7a0-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "b062a370-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "5cb33750-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "3c1fc290-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 1.0, 
+            "label": "Downspots: Clean of Debris, sealed at connections", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "3c1fc290-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "582e1270-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac0527a0-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "582e1270-ccb8-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "3af75a10-ccb6-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "media", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 6.0, 
+            "parent_id": "befa1790-cc83-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Interior Property Review Checklist", 
+            "type": "category", 
+            "combined_total_score": 6.0, 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": ",sjsndhens", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "d204fbb0-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463573, 
+                    "file_ext": "jpg", 
+                    "media_id": "F4FE836C-B478-448A-B17A-1E752894E427", 
+                    "filename": "F4FE836C-B478-448A-B17A-1E752894E427.jpg"
+                }
+            ], 
+            "label": "Are there any foundation issues observed?", 
+            "combined_score": 1.0, 
+            "parent_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "d204fbb0-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "e36ffc30-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "f3b09960-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463634, 
+                    "file_ext": "jpg", 
+                    "media_id": "B2033BAF-2F25-4F6F-8F7E-93212EDDF6AE", 
+                    "filename": "B2033BAF-2F25-4F6F-8F7E-93212EDDF6AE.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "e36ffc30-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Masks kisses", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "e8b98380-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463585, 
+                    "file_ext": "jpg", 
+                    "media_id": "4D7B1321-8BFB-46F4-BBFC-50BC29170131", 
+                    "filename": "4D7B1321-8BFB-46F4-BBFC-50BC29170131.jpg"
+                }
+            ], 
+            "label": "Are there any signs of mold at the property?", 
+            "combined_score": 1.0, 
+            "parent_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "e8b98380-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "e6253120-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "f9820270-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463627, 
+                    "file_ext": "jpg", 
+                    "media_id": "067E61D4-E933-4689-B050-0B78BC1725F1", 
+                    "filename": "067E61D4-E933-4689-B050-0B78BC1725F1.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "e6253120-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Kicks,sis,ska,a,", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "f1f65220-ccac-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463609, 
+                    "file_ext": "jpg", 
+                    "media_id": "8506E202-9F5E-4276-AF70-F012EA0547AA", 
+                    "filename": "8506E202-9F5E-4276-AF70-F012EA0547AA.jpg"
+                }
+            ], 
+            "label": "Are there any signs of infestations at the property?", 
+            "combined_score": 1.0, 
+            "parent_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "f1f65220-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "e7ae4220-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "faebf2b0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463619, 
+                    "file_ext": "jpg", 
+                    "media_id": "F3484BF7-5708-44B6-B980-76FABB06F446", 
+                    "filename": "F3484BF7-5708-44B6-B980-76FABB06F446.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "e7ae4220-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Kaka,asks", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "025f10c0-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463646, 
+                    "file_ext": "jpg", 
+                    "media_id": "6E2EC0B1-A263-424B-9892-E232A0FDF283", 
+                    "filename": "6E2EC0B1-A263-424B-9892-E232A0FDF283.jpg"
+                }
+            ], 
+            "label": "Are there any HVAC issues observed?", 
+            "combined_score": 1.0, 
+            "parent_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "025f10c0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "ea74dc30-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "fe472ba0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463765, 
+                    "file_ext": "jpg", 
+                    "media_id": "6EFB285A-963C-4B5E-B106-397BB5A45460", 
+                    "filename": "6EFB285A-963C-4B5E-B106-397BB5A45460.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "ea74dc30-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {
+                "text": "Oddsmaker", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "0c7a3170-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463822, 
+                    "file_ext": "jpg", 
+                    "media_id": "997F9A2E-3B4F-4463-8928-FB25C2CD6806", 
+                    "filename": "997F9A2E-3B4F-4463-8928-FB25C2CD6806.jpg"
+                }
+            ], 
+            "label": "Are there any plumbing issues observed?", 
+            "combined_score": 1.0, 
+            "parent_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "0c7a3170-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "e91f1030-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "fc850940-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463814, 
+                    "file_ext": "jpg", 
+                    "media_id": "486A3C46-9AB2-4702-9FB2-5189A6DF0400", 
+                    "filename": "486A3C46-9AB2-4702-9FB2-5189A6DF0400.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "e91f1030-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 1.0, 
+            "parent_id": "c3af3e90-ccac-11e3-a369-3b72f3d292a9", 
+            "score": 1.0, 
+            "responses": {
+                "text": "Isms kaka,sk", 
+                "response": [
+                    {
+                        "colour": "90,227,40", 
+                        "short_label": "", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "198482d0-ccad-11e3-a369-3b72f3d292a9", 
+            "total_score": 1.0, 
+            "label": "Are there any electrical issues observed?", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "ac048b60-ccb6-11e3-9972-fdbf6e9e9f5d"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "198482d0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "ebfc8da0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "total_score": 0, 
+            "label": "", 
+            "type": "smartfield", 
+            "combined_total_score": 0, 
+            "options": {
+                "values": [
+                    "ac048b61-ccb6-11e3-9972-fdbf6e9e9f5d"
+                ], 
+                "condition": "3f206182-e4f6-11e1-aff1-0800200c9a66"
+            }
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "0034a3c0-ccba-11e3-9972-fdbf6e9e9f5d", 
+            "media": [
+                {
+                    "date_created": 1398463843, 
+                    "file_ext": "jpg", 
+                    "media_id": "DC2E3987-9437-4BAA-8967-DA8880DDA8FD", 
+                    "filename": "DC2E3987-9437-4BAA-8967-DA8880DDA8FD.jpg"
+                }, 
+                {
+                    "date_created": 1398463855, 
+                    "file_ext": "jpg", 
+                    "media_id": "478E6C98-7981-45A0-BE27-2FBD6C291A6A", 
+                    "filename": "478E6C98-7981-45A0-BE27-2FBD6C291A6A.jpg"
+                }
+            ], 
+            "label": "", 
+            "combined_score": 0, 
+            "parent_id": "ebfc8da0-ccb9-11e3-9972-fdbf6e9e9f5d", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "befa1790-cc83-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "29f7a1b0-ccad-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Interior Property Photos", 
+            "type": "category", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "3805ce80-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463876, 
+                    "file_ext": "jpg", 
+                    "media_id": "C89843F7-1273-4417-9E77-C1C86BDC276E", 
+                    "filename": "C89843F7-1273-4417-9E77-C1C86BDC276E.jpg"
+                }
+            ], 
+            "label": "Bedroom Photos", 
+            "combined_score": 0, 
+            "parent_id": "29f7a1b0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "3b1c3640-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463883, 
+                    "file_ext": "jpg", 
+                    "media_id": "85836CC1-6D09-45A4-B241-914075C6A7D1", 
+                    "filename": "85836CC1-6D09-45A4-B241-914075C6A7D1.jpg"
+                }
+            ], 
+            "label": "Living Area Photos", 
+            "combined_score": 0, 
+            "parent_id": "29f7a1b0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "3dc0f070-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463891, 
+                    "file_ext": "jpg", 
+                    "media_id": "11F78652-D022-4315-A674-17F70DA62CFE", 
+                    "filename": "11F78652-D022-4315-A674-17F70DA62CFE.jpg"
+                }
+            ], 
+            "label": "Bathroom Photos", 
+            "combined_score": 0, 
+            "parent_id": "29f7a1b0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "3f7fb770-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463898, 
+                    "file_ext": "jpg", 
+                    "media_id": "65D0A363-C670-4038-835E-BCD7D6ED0E70", 
+                    "filename": "65D0A363-C670-4038-835E-BCD7D6ED0E70.jpg"
+                }
+            ], 
+            "label": "Kitchen Photos", 
+            "combined_score": 0, 
+            "parent_id": "29f7a1b0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "responses": {}, 
+            "total_score": 0, 
+            "combined_total_score": 0, 
+            "item_id": "41025fd0-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463905, 
+                    "file_ext": "jpg", 
+                    "media_id": "1746FDFF-2808-45B2-A272-AA066A7B11DC", 
+                    "filename": "1746FDFF-2808-45B2-A272-AA066A7B11DC.jpg"
+                }
+            ], 
+            "label": "Other Photos", 
+            "combined_score": 0, 
+            "parent_id": "29f7a1b0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "type": "media", 
+            "options": {}
+        }, 
+        {
+            "combined_score": 35.0, 
+            "parent_id": "befa1790-cc83-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "560c44e0-ccad-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Summary", 
+            "type": "category", 
+            "combined_total_score": 201.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 35.0, 
+            "parent_id": "560c44e0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 35.0, 
+            "responses": {
+                "value": "35"
+            }, 
+            "item_id": "6b891000-ccad-11e3-a369-3b72f3d292a9", 
+            "total_score": 200.0, 
+            "label": "Pantelan Suggested Rent Change", 
+            "type": "slider", 
+            "combined_total_score": 200.0, 
+            "options": {
+                "weighting": 1, 
+                "min": "-200", 
+                "increment": "5", 
+                "max": "200"
+            }
+        }, 
+        {
+            "responses": {
+                "text": "Kemenwjakmaemsme,sksndh", 
+                "response": [
+                    {
+                        "colour": "0,0,0", 
+                        "short_label": "", 
+                        "label": "2", 
+                        "score": 0, 
+                        "id": "e1fa3a30-ccbb-11e3-b7b9-a9a4a85762f1", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "total_score": 1.0, 
+            "combined_total_score": 1.0, 
+            "item_id": "7422e7e0-ccad-11e3-a369-3b72f3d292a9", 
+            "media": [
+                {
+                    "date_created": 1398463917, 
+                    "file_ext": "jpg", 
+                    "media_id": "EFF6F0D5-E1FE-4303-A07A-B80031E67088", 
+                    "filename": "EFF6F0D5-E1FE-4303-A07A-B80031E67088.jpg"
+                }
+            ], 
+            "label": "Which Pantelan Tier?", 
+            "combined_score": 0.0, 
+            "parent_id": "560c44e0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0.0, 
+            "type": "question", 
+            "options": {
+                "weighting": 1, 
+                "response_set": "e1c9db60-ccbb-11e3-b7b9-a9a4a85762f1"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "560c44e0-ccad-11e3-a369-3b72f3d292a9", 
+            "score": 0, 
+            "responses": {
+                "text": "Ndjamaiaka"
+            }, 
+            "item_id": "7e6d55f0-ccad-11e3-a369-3b72f3d292a9", 
+            "total_score": 0, 
+            "label": "Other Comments", 
+            "type": "text", 
+            "combined_total_score": 0, 
+            "options": {}
+        }
+    ], 
+    "audit_id": "B3E9A54C-5ED8-4572-B960-169CBB907B43", 
+    "template_data": {
+        "authorship": {
+            "owner": "Ashley Hagan", 
+            "date_created": 1398435242, 
+            "author": "Ashley Hagan", 
+            "device_id": "9169D409-D5F2-4E7C-A9C6-414970896221", 
+            "date_modified": 1398462768
+        }, 
+        "metadata": {
+            "industry": -1, 
+            "image": "", 
+            "description": "", 
+            "name": "Interior/Exterior Property Review - Broadtree-Dominion", 
+            "subindustry": -1
+        }
+    }, 
+    "header": [
+        {
+            "combined_score": 1.0, 
+            "parent_id": "", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Information", 
+            "type": "section", 
+            "combined_total_score": 2.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "807b8230-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "total_score": 0, 
+            "label": "Property Review Information", 
+            "type": "category", 
+            "combined_total_score": 1.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "807b8230-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 0, 
+            "responses": {
+                "text": "Hi there"
+            }, 
+            "item_id": "f3245d40-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Property Review Title", 
+            "type": "textsingle", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "807b8230-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 0, 
+            "responses": {
+                "text": "000022"
+            }, 
+            "item_id": "f3245d46-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Document No.", 
+            "type": "textsingle", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "807b8230-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 0, 
+            "responses": {
+                "datetime": 1398462855
+            }, 
+            "item_id": "f3245d42-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Time and Date of Property Review", 
+            "type": "datetime", 
+            "combined_total_score": 0, 
+            "options": {
+                "weighting": 1
+            }
+        }, 
+        {
+            "combined_score": 0.0, 
+            "parent_id": "807b8230-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 0.0, 
+            "responses": {}, 
+            "item_id": "f06b9010-cc83-11e3-a369-3b72f3d292a9", 
+            "total_score": 1.0, 
+            "label": "Reviewed By", 
+            "type": "list", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": "fb6f8a20-cc83-11e3-a369-3b72f3d292a9"
+            }
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "807b8230-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 0, 
+            "responses": {
+                "text": "Broadstone"
+            }, 
+            "item_id": "f3245d41-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Client / Site", 
+            "type": "textsingle", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 1.0, 
+            "parent_id": "f3245d39-ea77-11e1-aff1-0800200c9a66", 
+            "score": 0, 
+            "responses": {}, 
+            "item_id": "77192a30-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "total_score": 0, 
+            "label": "Property Information", 
+            "type": "category", 
+            "combined_total_score": 1.0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 0, 
+            "parent_id": "77192a30-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 0, 
+            "responses": {
+                "location_text": "Latitude: 39.576790\nLongitude: -104.857628", 
+                "location": {
+                    "iso_country_code": "", 
+                    "administrative_area": "", 
+                    "name": "", 
+                    "thoroughfare": "", 
+                    "locality": "", 
+                    "country": "", 
+                    "longitude": -104.85760000000001, 
+                    "sub_administrative_area": "", 
+                    "postal_code": "", 
+                    "latitude": 39.576790000000003, 
+                    "formatted_address": [], 
+                    "sub_locality": "", 
+                    "sub_thoroughfare": ""
+                }
+            }, 
+            "item_id": "f3245d44-ea77-11e1-aff1-0800200c9a66", 
+            "total_score": 0, 
+            "label": "Select 'Locate Me' to automatically input address", 
+            "type": "address", 
+            "combined_total_score": 0, 
+            "options": {}
+        }, 
+        {
+            "combined_score": 1.0, 
+            "parent_id": "77192a30-ccbd-11e3-b7b9-a9a4a85762f1", 
+            "score": 1.0, 
+            "responses": {
+                "response": [
+                    {
+                        "colour": "0,230,0", 
+                        "short_label": "Y", 
+                        "label": "Yes", 
+                        "score": 1, 
+                        "id": "8bcfbf00-e11b-11e1-9b23-0800200c9a66", 
+                        "enable_score": true
+                    }
+                ]
+            }, 
+            "item_id": "54780cf0-cc84-11e3-a369-3b72f3d292a9", 
+            "total_score": 1.0, 
+            "label": "Does property appear to be occupied?", 
+            "type": "question", 
+            "combined_total_score": 1.0, 
+            "options": {
+                "weighting": 1, 
+                "response_set": ""
+            }
+        }
+    ], 
+    "template_id": "d9f5a140-cc83-11e3-83ef-001b1118ce11"
+}
